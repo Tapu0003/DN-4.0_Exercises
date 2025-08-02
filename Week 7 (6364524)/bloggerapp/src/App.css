@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
+
+.column {
+  border-left: 4px solid green;
+  padding: 0 20px;
+}
+
+h1, h3, h4, h5, p {
+  margin: 10px 0;
+}
+
